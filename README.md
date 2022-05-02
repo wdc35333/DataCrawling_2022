@@ -1,3 +1,3 @@
-# DataCrawling_2022
+# Data_Analysis_2022
 
-## DataCarawling Practice
+## Data Analysis Practice
